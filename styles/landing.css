@@ -1,0 +1,11 @@
+body {
+    background-color: #191b23;
+}
+
+.corner-right {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 200px;
+    height: 200px;
+}
